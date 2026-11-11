@@ -1,0 +1,6 @@
+[submodule "sample-product-reactapp"]
+	path = sample-product-reactapp
+	url = https://github.com/keoKAY/sample-product-reactapp.git
+[submodule "spring-sample-product-jpa"]
+	path = spring-sample-product-jpa
+	url = https://github.com/keoKAY/spring-sample-product-jpa.git
